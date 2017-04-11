@@ -12,6 +12,8 @@ gem 'haml', '~> 4.0.5'
 gem 'simple_form', '~> 3.4'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem "paperclip", "~> 5.0.0"
+gem 'cocoon', '~> 1.2', '>= 1.2.9'
+gem 'devise', '~> 4.2'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 group :development, :test do
