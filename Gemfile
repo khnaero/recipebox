@@ -11,7 +11,7 @@ gem "paperclip", "~> 5.0.0"
 gem 'cocoon', '~> 1.2', '>= 1.2.9'
 gem 'devise', '~> 4.2'
 gem 'figaro'
-gem 'aws-sdk', '< 2.0'
+gem 'aws-sdk', '~> 2.3'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 group :assets do
